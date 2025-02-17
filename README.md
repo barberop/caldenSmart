@@ -42,9 +42,3 @@ Estas aplicaciones ya cuentan con una versión en Play Store, a la cual pueden a
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
 </p>
 <!-- markdownlint-enable MD033 -->
-
-## Developers
-
-| ![Gonzalo Trillo](https://avatars.githubusercontent.com/u/43149920?v=4) | ![Javier Di Franco](https://avatars.githubusercontent.com/u/128332003?v=4) |
-| :---: | :---: |
-| [**Gonzalo Trillo**](https://github.com/Azthriel) | [**Javier Di Franco**](https://github.com/javaBD) |
